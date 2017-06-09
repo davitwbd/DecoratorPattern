@@ -1,4 +1,4 @@
-#DecoratorPattern
+# DecoratorPattern
 
 
 	  Definição: O Decorator Pattern anexa responsabilidades adicionais a um objeto
