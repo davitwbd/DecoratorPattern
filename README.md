@@ -1,5 +1,6 @@
 #DecoratorPattern
 
-	Definição: O Decorator Pattern anexa responsabilidades adicionais a um objeto
-                   dinamicamente. Os decoradores fornecem uma alternativa flexível de 
+
+	DefiniÃ§Ã£o: O Decorator Pattern anexa responsabilidades adicionais a um objeto
+                   dinamicamente. Os decoradores fornecem uma alternativa flexÃ­vel de 
                    subclasse para estender a funcionalidade.
